@@ -20,5 +20,6 @@ Authors: Robert Chin<sup>1,2</sup>, Chris Manzie<sup>1</sup>, Alex Ira<sup>1</su
 
 * Developed in MATLAB R2017a
 * Required toolboxes:
-  * Statistics and Machine Learning Toolbox
-  * Optimization Toolbox
+  * Statistics and Machine Learning Toolbox for `normcdf`, `mvncdf`, `combnk`
+  * Optimization Toolbox for `fmincon`
+  * Parallel Computing Toolbox for `parfor`
